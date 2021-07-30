@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ### Github Statistics
 <p align="left">
   <img align="center" width="490" src="https://github-readme-stats.vercel.app/api?username=princ3od&show_icons=true&count_private=true&theme=graywhite"></img>
-  <img align="center" width="350" src="https://raw.githubusercontent.com/princ3od/my-stats/master/generated/languages.svg"></img>
+  <img align="center" width="345" src="https://raw.githubusercontent.com/princ3od/my-stats/master/generated/languages.svg"></img>
 </p>
 
