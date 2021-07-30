@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ----
+### Github Statistics
 <p align="left">
   <img src="https://raw.githubusercontent.com/princ3od/my-stats/master/generated/languages.svg"></img>
   <br></br>
