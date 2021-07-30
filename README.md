@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 ### Github Statistics
 <p align="left">
-  <img src="https://raw.githubusercontent.com/princ3od/my-stats/master/generated/languages.svg"></img>
-  <br></br>
-  <img src="https://github-readme-stats.vercel.app/api?username=princ3od&show_icons=true&count_private=true&theme=graywhite"></img>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=princ3od&show_icons=true&count_private=true&theme=graywhite"></img>
+  <img align="center" src="https://raw.githubusercontent.com/princ3od/my-stats/master/generated/languages.svg"></img>
 </p>
 
