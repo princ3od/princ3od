@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px"></h2>
 
-- Currently, I am focusing on C# and Dart (Flutter).
+- Currently, I am focusing on Dart (Flutter) and Kotlin, since I really enjoy building mobile app.
 <!--
 **princ3od/princ3od** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
