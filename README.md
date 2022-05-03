@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px"></h2> 
-- Currently, I am focusing on Dart (Flutter) and Kotlin, since I really enjoy building mobile app.
+- On my journey to explore new things!
 
 ### Github Statistics
 <p align="left">
